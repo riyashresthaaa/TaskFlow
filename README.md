@@ -18,7 +18,7 @@ A tiny **React website** to learn React fast.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **React + Vite**  
 - **React Router**  
