@@ -1,4 +1,4 @@
-# :clipboard: TaskFlow
+# TaskFlow
 
 A tiny **React website** to learn React fast.
 
